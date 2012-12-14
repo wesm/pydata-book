@@ -19,4 +19,5 @@ source code
 Order by chapter:
 
 Ch02_Movie_Lens: https://github.com/yangboz/pydata-book/blob/master/src/ch02_MovieLens.py
+
 Ch02_US_Baby_Names: https://github.com/yangboz/pydata-book/blob/master/src/ch02_USBabyNames.py
