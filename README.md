@@ -10,4 +10,12 @@ To myself is just do "practice make perfect" with this data,also based on this b
 
 customize
 ===========
+
 Python log4j:http://www.red-dove.com/python_logging.html
+
+source code
+===========
+
+Order by chapter:
+
+https://github.com/yangboz/pydata-book/tree/master/src
