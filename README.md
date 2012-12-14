@@ -18,4 +18,4 @@ source code
 
 Order by chapter:
 
-https://github.com/yangboz/pydata-book/tree/master/src
+Ch02_Movie_Lens: https://github.com/yangboz/pydata-book/blob/master/src/ch02_MovieLens.py
