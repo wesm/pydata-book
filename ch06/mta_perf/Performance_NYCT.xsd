@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Liquid XML Studio - FREE Community Edition 7.0.2.746 (http://www.liquid-technologies.com) -->
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="PERFORMANCE">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" name="INDICATOR">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element minOccurs="0" name="INDICATOR_SEQ">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="PARENT_SEQ">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="AGENCY_NAME">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="INDICATOR_NAME">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="DESCRIPTION">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="PERIOD_YEAR">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="PERIOD_MONTH">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="CATEGORY">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="FREQUENCY">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="DESIRED_CHANGE">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="INDICATOR_UNIT">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="DECIMAL_PLACES">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="YTD_TARGET">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="YTD_ACTUAL">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="MONTHLY_TARGET">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element minOccurs="0" name="MONTHLY_ACTUAL">
+                <xs:complexType>
+                  <xs:attribute name="value" type="xs:string" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
