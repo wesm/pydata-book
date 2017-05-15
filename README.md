@@ -1,5 +1,12 @@
 # pydata-book
-Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+
+Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
+published by O'Reilly Media
+
+# 2nd Edition Readers
+
+If you are reading the [2nd Edition][1], please find the reorganized book
+materials on the [`2nd-edition` branch][2].
 
 ## IPython Notebooks:
 
@@ -15,3 +22,6 @@ Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, 
 * [Chapter 12: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/ch12.ipynb)
 * [Python Appendix](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/appendix_python.ipynb)
 * [2012 Federal Election Commission Database](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/master/fec_study.ipynb)
+
+[1]: http://shop.oreilly.com/product/0636920050896.do
+[2]: https://github.com/wesm/pydata-book/tree/2nd-edition
