@@ -1,0 +1,10 @@
+numpy==1.13.3
+pandas==0.21.0
+matplotlib==2.1.0
+lxml==4.1.0
+seaborn==0.8.1
+statsmodels==0.8.0
+scipy==1.0.0
+patsy==0.4.1
+scikit-learn==0.19.1
+beautifulsoup4==4.6.0
