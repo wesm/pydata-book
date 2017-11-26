@@ -12,6 +12,10 @@ published by O'Reilly Media
 If you are reading the [1st Edition][1] (published in 2012), please find the
 reorganized book materials on the [`1st-edition` branch][2].
 
+# Translations
+
+* [Chinese][3] by Xu Liang
+
 ## IPython Notebooks:
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch02.ipynb)
@@ -39,3 +43,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 [1]: http://amzn.to/2vvBijB
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
+[3]: https://github.com/BrambleXu/pydata-notebook
