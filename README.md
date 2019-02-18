@@ -7,6 +7,8 @@ published by O'Reilly Media
 
 <a href="https://notebooks.azure.com/import/gh/wesm/pydata-book"><img src="https://notebooks.azure.com/launch.png" /></a>
 
+Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
+
 # 1st Edition Readers
 
 If you are reading the [1st Edition][1] (published in 2012), please find the
