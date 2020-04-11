@@ -17,6 +17,7 @@ reorganized book materials on the [`1st-edition` branch][2].
 # Translations
 
 * [Chinese][3] by Xu Liang
+* [Polish](https://github.com/mbiesiad/pydata-book/tree/pl_PL) by Michal Biesiada
 
 ## IPython Notebooks:
 
