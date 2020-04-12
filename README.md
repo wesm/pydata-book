@@ -1,18 +1,18 @@
-# Analiza danych z Python, 2. edycja
+# Analiza danych z Python, edycja II
 
 Materiały i IPython notebooks for "Python for Data Analysis" by Wes McKinney,
 published by O'Reilly Media
 
-[Buy the book on Amazon][1]
+[Kup książkę na Amazon][1]
 
 <a href="https://notebooks.azure.com/import/gh/wesm/pydata-book"><img src="https://notebooks.azure.com/launch.png" /></a>
 
-Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
+Obserwuj Wes na Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
 
 # 1st Edition Readers
 
-If you are reading the [1st Edition][1] (published in 2012), please find the
-reorganized book materials on the [`1st-edition` branch][2].
+Jeśli czytasz [1st Edition][1] (opublikowaną w 2012 r.), znajdziesz
+zreorganizowane materiały książkowe w [`1st-edition` branch][2].
 
 # Tłumaczenia
 
@@ -21,28 +21,28 @@ reorganized book materials on the [`1st-edition` branch][2].
 
 ## IPython Notebooks:
 
-* [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch02.ipynb)
-* [Chapter 3: Built-in Data Structures, Functions, and Files](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch03.ipynb)
-* [Chapter 4: NumPy Basics: Arrays and Vectorized Computation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch04.ipynb)
-* [Chapter 5: Getting Started with pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch05.ipynb)
-* [Chapter 6: Data Loading, Storage, and File Formats](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch06.ipynb)
-* [Chapter 7: Data Cleaning and Preparation](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch07.ipynb)
-* [Chapter 8: Data Wrangling: Join, Combine, and Reshape](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch08.ipynb)
-* [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
-* [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch10.ipynb)
-* [Chapter 11: Time Series](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch11.ipynb)
-* [Chapter 12: Advanced pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch12.ipynb)
-* [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
-* [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
-* [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
+* [Rozdział 2: Podstawy języka Python, IPython i Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch02.ipynb)
+* [Rozdział 3: Wbudowane struktury danych, funkcje i pliki](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch03.ipynb)
+* [Rozdział 4: Podstawy NumPy: tablice i obliczenia wektoryzowane](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch04.ipynb)
+* [Rozdział 5: Rozpoczęcie pracy z pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch05.ipynb)
+* [Rozdział 6: Ładowanie danych, przechowywanie i formaty plików](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch06.ipynb)
+* [Rozdział 7: Czyszczenie i przygotowanie danych](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch07.ipynb)
+* [Rozdział 8: Data Wrangling: Join, Combine i Reshape](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch08.ipynb)
+* [Rozdział 9: Tworzenie wykresów i wizualizacja](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch09.ipynb)
+* [Rozdział 10: Agregacja danych i operacje grupowe](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch10.ipynb)
+* [Rozdział 11: Szereg czasowy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch11.ipynb)
+* [Rozdział 12: Zaawansowane pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch12.ipynb)
+* [Rozdział 13: Wprowadzenie do bibliotek modelowania w Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch13.ipynb)
+* [Rozdział 14: Przykłady analizy danych](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/ch14.ipynb)
+* [Dodatek A: Zaawansowane NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/2nd-edition/appa.ipynb)
 
-## License
+## Licencja
 
-### Code
+### Kod
 
-The code in this repository, including all code samples in the notebooks listed
-above, is released under the [MIT license](LICENSE-CODE). Read more at the
-[Open Source Initiative](https://opensource.org/licenses/MIT).
+Kod w tym repozytorium, w tym wszystkie przykłady kodu z wymienionych notatek
+powyżej jest wydany na podstawie [licencji MIT](LICENSE-CODE). Czytaj więcej na
+[Inicjatywa Open Source](https://opensource.org/licenses/MIT).
 
 [1]: http://amzn.to/2vvBijB
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
