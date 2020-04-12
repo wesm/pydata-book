@@ -1,6 +1,6 @@
-# Python for Data Analysis, 2nd Edition
+# Analiza danych z Python, 2. edycja
 
-Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney,
+Materiały i IPython notebooks for "Python for Data Analysis" by Wes McKinney,
 published by O'Reilly Media
 
 [Buy the book on Amazon][1]
@@ -14,9 +14,10 @@ Follow Wes on Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/
 If you are reading the [1st Edition][1] (published in 2012), please find the
 reorganized book materials on the [`1st-edition` branch][2].
 
-# Translations
+# Tłumaczenia
 
-* [Chinese][3] by Xu Liang
+* [chińskie][3] od Xu Liang
+* [polskie](https://github.com/mbiesiad/pydata-book/tree/pl_PL) od Michal Biesiada
 
 ## IPython Notebooks:
 
