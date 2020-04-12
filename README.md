@@ -1,7 +1,7 @@
 # Analiza danych z Python, edycja II
 
-Materiały i IPython notebooks for "Python for Data Analysis" by Wes McKinney,
-published by O'Reilly Media
+Materiały i IPython notebooks dla "Analiza danych z Python" od Wes McKinney,
+wydane przez O'Reilly Media
 
 [Kup książkę na Amazon][1]
 
@@ -9,7 +9,7 @@ published by O'Reilly Media
 
 Obserwuj Wes na Twitter: [![Twitter Follow](https://img.shields.io/twitter/follow/wesmckinn.svg?style=social&label=Follow)](https://twitter.com/wesmckinn)
 
-# 1st Edition Readers
+# Czytelnicy edycji I
 
 Jeśli czytasz [1st Edition][1] (opublikowaną w 2012 r.), znajdziesz
 zreorganizowane materiały książkowe w [`1st-edition` branch][2].
