@@ -17,11 +17,6 @@ reorganized book materials on the [`2nd-edition` branch][5].
 If you are reading the 1st Edition (published in 2012), please find the
 reorganized book materials on the [`1st-edition` branch][2].
 
-# Translations
-
-* [Chinese][3] by Xu Liang
-* [Polish][4] by Michal Biesiada
-
 ## IPython Notebooks:
 
 * [Chapter 2: Python Language Basics, IPython, and Jupyter Notebooks](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch02.ipynb)
@@ -34,9 +29,8 @@ reorganized book materials on the [`1st-edition` branch][2].
 * [Chapter 9: Plotting and Visualization](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch09.ipynb)
 * [Chapter 10: Data Aggregation and Group Operations](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch10.ipynb)
 * [Chapter 11: Time Series](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch11.ipynb)
-* [Chapter 12: Advanced pandas](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch12.ipynb)
-* [Chapter 13: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch13.ipynb)
-* [Chapter 14: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch14.ipynb)
+* [Chapter 12: Introduction to Modeling Libraries in Python](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch12.ipynb)
+* [Chapter 13: Data Analysis Examples](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/ch13.ipynb)
 * [Appendix A: Advanced NumPy](http://nbviewer.ipython.org/github/pydata/pydata-book/blob/3rd-edition/appa.ipynb)
 
 ## License
@@ -49,6 +43,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 
 [1]: https://amzn.to/3DyLaJc
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
-[3]: https://github.com/BrambleXu/pydata-notebook
-[4]: https://github.com/mbiesiad/pydata-book/tree/pl_PL
 [5]: https://github.com/wesm/pydata-book/tree/2nd-edition
