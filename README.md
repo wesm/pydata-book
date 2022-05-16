@@ -1,7 +1,8 @@
 # Python for Data Analysis, 3rd Edition
 
 Materials and IPython notebooks for "Python for Data Analysis, 3rd
-Edition" by Wes McKinney, published by O'Reilly Media
+Edition" by Wes McKinney, published by O'Reilly Media. Book content
+can be [found for free on my website][6].
 
 [Buy the book on Amazon][1]
 
@@ -44,3 +45,4 @@ above, is released under the [MIT license](LICENSE-CODE). Read more at the
 [1]: https://amzn.to/3DyLaJc
 [2]: https://github.com/wesm/pydata-book/tree/1st-edition
 [5]: https://github.com/wesm/pydata-book/tree/2nd-edition
+[6]: https://wesmckinney.com/book/
