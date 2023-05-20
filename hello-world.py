@@ -32,7 +32,7 @@ wednesday = 2.5
 thursday = 2.5
 friday = 3
 saturday = 5
-sunday = 8
+sunday = 9
 
 ave = (monday + tuesday + wednesday + thursday + friday +saturday +sunday)/7
 
