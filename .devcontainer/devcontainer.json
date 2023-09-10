@@ -1,0 +1,26 @@
+{
+  "name": "pydata-book",
+  // We use the universal image and not the python one because containers based on the default image are not counted as used storage in github codespaces.
+  // https://docs.github.com/en/billing/managing-billing-for-github-codespaces/about-billing-for-github-codespaces
+  "image": "mcr.microsoft.com/devcontainers/universal:2-linux",
+  "forwardPorts": [
+    6006,
+    8888
+  ],
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "README.md"
+      ]
+    },
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter"
+      ]
+    }
+  },
+  "onCreateCommand": "pip3 install --user -r requirements.txt",
+  "updateContentCommand": "python -m ipykernel install --user --name pydata-book --display-name 'Python 3 (pydata-book)'",
+  "postStartCommand": "jupyter lab --notebook-dir=/workspaces/pydata-book --ip='0.0.0.0' --port=8888 --no-browser"
+}
