@@ -8,3 +8,7 @@ scipy
 patsy
 scikit-learn
 beautifulsoup4
+fastparquet
+openpyxl
+requests
+sqlalchemy
